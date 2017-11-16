@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:gravity="center_horizontal"
+    android:background="@color/fondoApp"
+    tools:context="com.rodrick.licoreriaapp.MainActivity">
+
+
+    <TextView
+        android:textSize="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colortitulo"
+        android:text="@string/licoreriaRodrick" />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:layout_margin="20dp"
+        android:background="@color/fondoBoton"
+        android:textColor="@color/fuenteBoton"
+        android:text="@string/botonRegistro"
+        android:onClick="registrar"/>
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:layout_margin="20dp"
+        android:background="@color/fondoBoton"
+        android:textColor="@color/fuenteBoton"
+        android:text="Listar"
+        android:onClick="Listar"/>
+</LinearLayout>

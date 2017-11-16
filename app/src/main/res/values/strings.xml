@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LicoreriaAPP</string>
+    <string name="licoreriaRodrick">Licoreria Rodrick</string>
+    <string name="botonRegistro">Registrar</string>
+</resources>

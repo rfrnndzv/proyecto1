@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colortitulo">#ebece0</color>
+    <color name="fuenteBoton">#ffffff</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="fondoBoton">#a41a15</color>
+    <color name="fondoApp">#d8435dc4</color>
+    <color name="colorPrimary">#d86ca1e2</color>
+    <color name="colorPrimaryDark">#d8435dc4</color>
+    <color name="Texto">#d89fd9e9</color>
+    <color name="Fondo">#d81e2339</color>
+</resources>
